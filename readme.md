@@ -10,3 +10,13 @@ If you require my services, I leave my cell phone number here.
 -HTML
 -CSS
 -JAVASCRIPT
+
+## Skills
+-continuous learning
+-teamwork
+-Problem resolution
+
+## Hobbies
+-watch movies
+-walk
+-go out with friends
