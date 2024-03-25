@@ -10,3 +10,8 @@ If you require my services, I leave my cell phone number here.
 -continuous learning
 -teamwork
 -Problem resolution
+
+## Hobbies
+-watch movies
+-walk
+-go out with friends
