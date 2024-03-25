@@ -16,6 +16,10 @@ If you require my services, I leave my cell phone number here.
 -teamwork
 -Problem resolution
 
+## Languages
+-Spanish
+-English
+
 ## Hobbies
 -watch movies
 -walk
