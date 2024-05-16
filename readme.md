@@ -1,10 +1,10 @@
-#¡Hola! soy Franco Correa
+# ¡Hola! soy Franco Correa
 
 ## Sobre mi
-Estudio de Desarrollo de sistemas por las mañanas y Desarrollo Web FulStack por las tardes asi que suelo tener poco tiempo libre entre semana.
+Estudio de Desarrollo de Sistemas, por las mañanas y Desarrollo Web FulStack, por las tardes, asi que suelo tener poco tiempo libre entre semana.
 
 ## Contacto
-Por ahora me estoy esforzando mucho para poder alcanzar el nivel que crea necesario para ser colaborador de alguna empresa en el sector de desarrollo web.
+Por ahora me estoy esforzando mucho para poder alcanzar el nivel que crea necesario para ser colaborador en una empresa del sector de desarrollo web.
 
 ## Tecnologias
 -HTML
