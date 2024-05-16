@@ -1,26 +1,25 @@
-# Hi im Franco! an full stack developer student
+#¡Hola! soy Franco Correa
 
-## About me
-Grateful to have found what I want to dedicate my life to, software development.
+## Sobre mi
+Estudio de Desarrollo de sistemas por las mañanas y Desarrollo Web FulStack por las tardes asi que suelo tener poco tiempo libre entre semana.
 
-## Contact me
-If you require my services, I leave my cell phone number here.
+## Contacto
+Por ahora me estoy esforzando mucho para poder alcanzar el nivel que crea necesario para ser colaborador de alguna empresa en el sector de desarrollo web.
 
-## Technologies
+## Tecnologias
 -HTML
 -CSS
 -JAVASCRIPT
 
 ## Skills
--continuous learning
--teamwork
--Problem resolution
+-Constante capacitacion
+-Trabajo en equipo
+-Resolucion de problemas
 
-## Languages
--Spanish
--English
+## Lenguajes
+Por el momento solo hablo español, pero tengo trasado estudiar ingles el 2025.
 
 ## Hobbies
--watch movies
--walk
--go out with friends
+-Jugar futbool
+-Salir con amigos
+-Ver series
