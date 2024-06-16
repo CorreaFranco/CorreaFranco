@@ -15,8 +15,3 @@ Desarrollo de sistemas de informacion y desarrollo web
 ## Herramientas
 -Github
 
-## Skills
--Constante capacitacion
--Trabajo en equipo
--Resolucion de problemas
-
