@@ -1,17 +1,18 @@
 # ¡Hola! soy Franco Correa
 
 ## Sobre mi
-Desarrollo de sistemas de informacion y desarrollo web
-
-## Contacto
-+51 934 928 064
+Estudio desarrollo de sistemas de informacion y desarrollo web
 
 ## Tecnologias
 -HTML
 -CSS
 -JAVASCRIPT
--Reac
+-REAC
 
 ## Herramientas
 -Github
+-WordPress
+-Shopify
 
+## Contacto
++51 934 928 064
