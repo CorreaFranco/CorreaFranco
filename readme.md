@@ -8,11 +8,7 @@ Estudio desarrollo de sistemas de informacion y desarrollo web
 -CSS
 -JAVASCRIPT
 -REAC
-
-## Herramientas
--Github
--WordPress
--Shopify
+-Git
 
 ## Contacto
 +51 934 928 064
